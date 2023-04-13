@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">News Application</string>
-    <string name="title_activity_login">LoginActivity</string>
-    <string name="title_activity_registration">RegistrationActivity</string>
-    <string name="title_activity_display_news">DisplayNews</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="title_activity_main_Activity" />
-    <string name="title_activity_example_instrumented_test">ExampleInstrumentedTest</string>
-</resources>
